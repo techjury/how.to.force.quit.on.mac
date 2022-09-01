@@ -1,6 +1,6 @@
 # how to force quit on mac
 
-[![how to force quit on mac](gett-stateed.png)](https://github.com/techjury/how.to.force.quit.on.mac)
+[![how to force quit on mac](gett-stateed.png)](https://computersolve.com/how-to-force-quit-on-mac/)
 
 Macs aren't infallible, and at some point during your time using them you'll come across a situation in macOS where an app has become unresponsive, leaving you without access to its contents and functions, and only a continually revolving beachball for your troubles.
 
